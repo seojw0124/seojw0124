@@ -4,10 +4,11 @@
   <img src="https://render.gitanimals.org/farms/seojw0124"/><br/><br/>
   
   <a href="https://wakatime.com/@a43336f2-9e6f-46ed-858d-2696a9dc613f">
-    <img src="https://wakatime.com/badge/user/a43336f2-9e6f-46ed-858d-2696a9dc613f.svg?style=for-the-badge&label=Dev%20Time"/>
+    <img src="https://wakatime.com/badge/user/a43336f2-9e6f-46ed-858d-2696a9dc613f.svg"/>
   </a>
+  
   <a href="https://hits.sh/github.com/seojw0124/">
-    <img src="https://hits.sh/github.com/seojw0124.svg?style=for-the-badge&label=hello"/>
+    <img src="https://hits.sh/github.com/seojw0124.svg"/>
   </a>
 </p>
 
