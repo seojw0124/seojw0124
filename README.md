@@ -15,7 +15,7 @@
 ## Tech Stack
 <p>
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Jetpack Compose-4285F4?style=for-the-badge&logo=android&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white"/>
   <img src="https://img.shields.io/badge/XML View-FF6600?style=for-the-badge&logo=android&logoColor=white"/>
 </p>
 
