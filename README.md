@@ -1,4 +1,4 @@
-## Hi there 👋 I'm Jeongu
+## Hi there 👋
 
 <p align="center">
   <img src="https://render.gitanimals.org/farms/seojw0124"/><br/><br/>
