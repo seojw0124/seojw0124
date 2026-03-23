@@ -20,11 +20,11 @@
 </p>
 
 ## Activity
-- **GDSC DJU**<br>
+- **GDSC DJU** <br>
   2021.08 ~ 2023.12
-- **내일배움캠프 Android 4기**<br>
+- **내일배움캠프 Android 4기** <br>
   2024.05 ~ 2024.10
-- **팀스파르타 Product Camp**<br>
+- **팀스파르타 Product Camp** <br>
   2025.01.09 ~ 2025.02.23
-- **네이버 부스트캠프 웹・모바일 10기 모바일 Android(Kotlin)**<br>
+- **네이버 부스트캠프 웹・모바일 10기 모바일 Android(Kotlin)** <br>
   2025.06 ~ 2026.02
